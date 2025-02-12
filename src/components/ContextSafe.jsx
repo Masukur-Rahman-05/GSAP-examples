@@ -14,6 +14,7 @@ function ContextSafe() {
       x: axis,
       duration: 2,
       rotate: rotate,
+      backgroundColor: "blue",
     });
   });
 
