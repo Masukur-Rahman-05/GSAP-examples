@@ -7,6 +7,7 @@ import { First } from "./components/First";
 import { Perspectivce } from "./components/Perspectivce";
 import { TextStagger } from "./components/TextStagger";
 import { ScrollTriggerr } from "./components/ScrollTrigger";
+import { SvgFirst } from "./components/SvgFirst";
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <First/> */}
       {/* <Perspectivce/> */}
       {/* <TextStagger/> */}
-      <ScrollTriggerr />
+      {/* <ScrollTriggerr /> */}
+      <SvgFirst />
     </div>
   );
 }
